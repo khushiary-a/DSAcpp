@@ -26,7 +26,7 @@ void printmap(map<int, detail> mymap)
 int main()
 {
     map<int, detail> mymap;
-    detail obj = {"khushi ", 5678, 22};
+    detail obj = {"arya ", 5678, 22};
     detail obj1 = {"khushi1 ", 56784, 21};
     detail obj3 = {"khushie ", 56784, 227};
 
